@@ -1,0 +1,20 @@
+{
+    "en":{
+      "welcomeMessage":"welcome !",
+      "normalMessage" : "we hope you enjoy learning creact app . " ,
+      "greetingMessage" : "have a great day .",
+      "userStatMessage" : "<studentcount> student are learning in this session "
+    },
+    "hi":{
+      "welcomeMessage" :"आपका स्वागत है !",
+      "normalMessage" : "आशा है आपको रिऍक्ट पढणे मे मजा आ राहा है !",
+      "greetingMessage":"आपका  दिन शुभ हो !",
+      "userStatMessage" : "इस सेशन मे <studentcount> छात्र पढ रहे है "
+    },
+    "mr":{
+      "welcomeMessage" : "स्वागत  आहे ",
+      "normalMessage" : "आशा आहे तुम्हाला रिऍक्ट शिकण्यात मजा येणार ",
+      "greetingMessage":"आपला  दिवस चांगला  जाओ .",
+      "userStatMessage" : "या session मध्ये <studentcount> विध्यार्थी शिकत आहे "
+    }
+}
